@@ -1,0 +1,20 @@
+pycache/
+*.py[cod]
+playground/
+
+# Local/editor/build artefacts must not enter this public repository.
+.vs/
+[Bb]in/
+[Oo]bj/
+*.suo
+*.wsuo
+*.user
+*.pdb
+*.cache
+*.db
+*.db-shm
+*.db-wal
+*.vsidx
+
+# Local drafts are not publishable.
+README.local-draft-*.md
